@@ -1,3 +1,3 @@
 # copy-me
 to be cloned
-edthu
+# ith nj edthu
